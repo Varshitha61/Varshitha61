@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌈 S Varshitha
+#  S Varshitha
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;IoT+Innovator+%F0%9F%93%A1" alt="Typing SVG" />
 
@@ -30,17 +30,6 @@
 
 </div>
 
-## 💫 About Me
-```javascript
-const varshitha = {
-    pronouns: "She/Her",
-    location: "Coimbatore, India 🇮🇳",
-    education: "B.E. Computer Science @ KIT Coimbatore",
-    currentFocus: ["Full-Stack Development", "AI/ML", "IoT Systems"],
-    funFact: "I turn coffee ☕ into code 💻",
-    goals: "Building scalable solutions that make a difference! 🌟"
-};
-```
 
 ## 🛠️ Tech Stack Superpowers
 
