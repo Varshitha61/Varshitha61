@@ -121,17 +121,7 @@ I'm a **Software Engineer** based in Coimbatore, India, passionate about craftin
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varshitha61&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha61&layout=compact&theme=dark)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
@@ -150,12 +140,17 @@ I'm a **Software Engineer** based in Coimbatore, India, passionate about craftin
 - 🔌 Developing IoT solutions for real-world problems
 - 🎓 Contributing to open-source projects and advancing research in embedded systems
 
----
-
 <div align="center">
+---
+## 📫 Let's Connect!
 
-**⭐ If you find my work interesting, feel free to star my repositories! ⭐**
+[![Email](https://img.shields.io/badge/📧_Email-varshithasomashekar22@gmail.com-EA4335?style=for-the-badge)](mailto:varshithasomashekar22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-S_Varshitha-0A66C2?style=for-the-badge)](https://linkedin.com/in/S-Varshitha)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Varshitha61-181717?style=for-the-badge)](https://github.com/Varshitha61)
+[![Phone](https://img.shields.io/badge/📱_Phone-+91_7892598335-25D366?style=for-the-badge)](tel:+917892598335)
 
-*Made with ❤️ by S Varshitha*
+**📍 Coimbatore, Tamil Nadu, India**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Varshitha61&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
