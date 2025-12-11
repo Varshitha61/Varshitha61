@@ -1,295 +1,280 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S%20Varshitha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-
-# 👋 Welcome to My Digital Space
-
-### Software Engineer • Problem Solver • Tech Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;IoT+Innovator+%F0%9F%93%A1;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG" />
-
-<br>
-
-🎓 **B.E. CSE @ KIT Coimbatore** • 📍 **Coimbatore, India** • ⭐ **CGPA 7.9**
-
-</div>
-
----
-
-## 🎯 Quick Overview
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/LeetCode-2055-FFA116?style=flat-square&logo=leetcode&logoColor=white" /><br>
-<sub><b>Max Rating</b></sub><br>
-<sub>🏆 Top 14.5%</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Problems-460+-4285F4?style=flat-square" /><br>
-<sub><b>Solved</b></sub><br>
-<sub>🎯 All Platforms</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Research-1-9C27B0?style=flat-square" /><br>
-<sub><b>Publications</b></sub><br>
-<sub>📝 ICEE 2025</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Projects-10+-00BCD4?style=flat-square" /><br>
-<sub><b>Completed</b></sub><br>
-<sub>🚀 Full-Stack</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 My Journey
-```mermaid
-timeline
-    title Career Timeline
-    2023 : Started B.E. CSE Journey
-    2024 : Full-Stack Intern @ Learnlogicify
-         : LeetCode Rating 2055 (Top 14.5%)
-    2025 : Research Paper @ ICEE 2025
-         : Building the Future...
-```
-
----
-
-## 💡 Areas of Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full-Stack Development
-- React.js & Modern JavaScript
-- Node.js & Express.js
-- MySQL & Database Design
-- RESTful API Development
-
-</td>
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-- Gemini API Integration
-- Scikit-learn & ML Models
-- Predictive Analytics
-- Data Processing & EDA
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📡 IoT & Embedded Systems
-- Microcontroller Programming
-- Sensor Integration
-- Embedded C Development
-- Real-time Systems
-
-</td>
-<td width="50%">
-
-### 🧩 Problem Solving
-- Data Structures & Algorithms
-- Competitive Programming
-- Code Optimization
-- System Design
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-| 🏰 LeetCode Knight | ⚔️ Code Warrior | 📜 Published Researcher | 🔨 Tech Builder |
-|:---:|:---:|:---:|:---:|
-| Max Rating 2055 | 460+ Problems | ICEE 2025 | 10+ Projects |
-| **Top 14.5%** | **3 Platforms** | **IoT Domain** | **Full-Stack** |
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-### 💊 Pill Sense | IoT Healthcare Innovation
-
-> 🏆 **Research Paper Published at ICEE 2025**
-
-Smart medication tracking system using capacitive sensors and microcontrollers with real-time caregiver monitoring capabilities.
-```
-Tech Stack: Embedded C • Microcontrollers • IoT Communication • Web Integration
-```
-
-**Impact:** Automated medication adherence monitoring with timestamp synchronization
-
----
-
-### 💰 SpendWiser | AI-Powered Finance Tracker
-
-> 🧠 **Gemini AI Integration**
-
-Intelligent finance management platform featuring AI-driven receipt processing and spending analytics.
-```
-Tech Stack: React • TypeScript • Gemini API • REST APIs
-```
-
-**Impact:** Real-time financial insights with automated data extraction
-
----
-
-### ☕ Cafe Aroma | Full-Stack Web Application
-
-> 🤖 **AI Virtual Barista**
-
-Complete café management system with AI-powered assistant using serverless architecture.
-```
-Tech Stack: React • Vite • Vercel AI • Context API • Serverless Functions
-```
-
-**Impact:** Enhanced user experience with intelligent recommendations
-
----
-
-### 📊 Machine Learning Models | Predictive Analytics
-
-> 📈 **High Accuracy Models**
-
-Car price prediction and wine quality classification with comprehensive EDA and feature engineering.
-```
-Tech Stack: Python • Scikit-learn • Pandas • NumPy • Matplotlib
-```
-
-**Impact:** Systematic model optimization achieving high accuracy
-
----
-
-## 🎮 Competitive Programming
-
-<div align="center">
-
-### 🟠 LeetCode
-![LeetCode Stats](https://img.shields.io/badge/Max_Rating-2055-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-**Top 14.5% Globally** • **Rank 1468** • **80+ Problems Solved**
-
----
-
-### ⭐ CodeChef
-![CodeChef Stats](https://img.shields.io/badge/Max_Rating-1314-brown?style=for-the-badge)
-
-**1 Star Coder** • **Best Rank 1358** • **380 Problems Solved**
-
----
-
-### 🔵 Codeforces
-![Codeforces Stats](https://img.shields.io/badge/Max_Rating-965-1E90FF?style=for-the-badge)
-
-**Pupil Level** • **Active Participant** • **Regular Practice**
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Full-Stack Development Intern
-**Learnlogicify Technologies** • *1 Month*
-```diff
-+ Built responsive web components with React, Node.js & MySQL
-+ Optimized deployment workflows & testing protocols
-+ Enhanced UI consistency and application performance
-+ Collaborated on feature enhancements and debugging
-```
-
----
-
-## 📜 Certifications
-
-- 🎓 **GenAI Powered Data Analytics** — Tata Consultancy Services (2024)
-- ☁️ **AWS Solutions Architecture** — Amazon Web Services (2024)
-- 💻 **Introduction to C Programming** — NPTEL (2024)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varshitha61&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha61&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitha61&theme=default&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varshitha61&theme=flat&no-frame=true&margin-w=15&row=1" />
-
-</div>
-
----
-
-## 🌟 Let's Connect!
-
-<div align="center">
-
-### Open to collaborations, opportunities, and innovative projects!
-
-[![Email](https://img.shields.io/badge/Email-varshithasomashekar22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasomashekar22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-S_Varshitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/S-Varshitha)
-[![GitHub](https://img.shields.io/badge/GitHub-Varshitha61-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varshitha61)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Varshitha61-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Varshitha61)
-
-**📱 +91 7892598335** • **📍 Coimbatore, Tamil Nadu, India**
-
-<img src="https://komarev.com/ghpvc/?username=Varshitha61&style=flat-square&color=6366F1" />
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+import React, { useState, useEffect } from 'react';
+import { Play, Code, Lightbulb, Zap, Coffee, Flame, Star, Award, TrendingUp, Target, Heart, Sparkles } from 'lucide-react';
+
+export default function GitHubProfile() {
+  const [time, setTime] = useState(new Date());
+  const [activeProject, setActiveProject] = useState(0);
+
+  useEffect(() => {
+    const timer = setInterval(() => setTime(new Date()), 1000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const timeline = [
+    { year: '2023', event: 'Started B.E. CSE Journey', color: 'bg-blue-500' },
+    { year: '2024', event: 'Full-Stack Intern @ Learnlogicify', color: 'bg-green-500' },
+    { year: '2024', event: 'LeetCode Rating 2055 (Top 14.5%)', color: 'bg-orange-500' },
+    { year: '2025', event: 'Research Paper @ ICEE 2025', color: 'bg-purple-500' },
+    { year: '2025', event: 'Building the Future...', color: 'bg-pink-500' }
+  ];
+
+  const expertise = [
+    { domain: 'Full-Stack Development', skills: ['React', 'Node.js', 'Express', 'MySQL'], icon: '🌐', color: 'border-blue-500' },
+    { domain: 'Artificial Intelligence', skills: ['Gemini API', 'Scikit-learn', 'ML Models'], icon: '🤖', color: 'border-purple-500' },
+    { domain: 'IoT & Embedded', skills: ['Microcontrollers', 'Sensors', 'Embedded C'], icon: '📡', color: 'border-green-500' },
+    { domain: 'Problem Solving', skills: ['Data Structures', 'Algorithms', 'Competitive Coding'], icon: '🧩', color: 'border-orange-500' }
+  ];
+
+  const achievements = [
+    { title: 'LeetCode Knight', desc: 'Max Rating 2055', icon: '🏰', stat: 'Top 14.5%' },
+    { title: 'Code Warrior', desc: '460+ Problems', icon: '⚔️', stat: '3 Platforms' },
+    { title: 'Published Researcher', desc: 'ICEE 2025', icon: '📜', stat: 'IoT Domain' },
+    { title: 'Tech Builder', desc: '10+ Projects', icon: '🔨', stat: 'Full-Stack' }
+  ];
+
+  const showcase = [
+    {
+      name: 'Pill Sense',
+      tagline: 'Healthcare meets IoT',
+      icon: '💊',
+      description: 'Smart medication tracking system with real-time monitoring',
+      impact: 'Research Paper Published',
+      tech: ['IoT', 'Embedded C', 'Sensors'],
+      color: 'from-violet-600 to-purple-600'
+    },
+    {
+      name: 'SpendWiser',
+      tagline: 'AI-powered finances',
+      icon: '💰',
+      description: 'Intelligent receipt scanning and spending analytics',
+      impact: 'Gemini AI Integration',
+      tech: ['React', 'TypeScript', 'AI'],
+      color: 'from-cyan-600 to-blue-600'
+    },
+    {
+      name: 'Cafe Aroma',
+      tagline: 'Full-stack delight',
+      icon: '☕',
+      description: 'Complete café system with AI virtual assistant',
+      impact: 'Serverless Architecture',
+      tech: ['React', 'Vite', 'AI'],
+      color: 'from-amber-600 to-orange-600'
+    }
+  ];
+
+  return (
+    <div className="min-h-screen bg-white text-gray-900">
+      {/* Hero Section with Geometric Design */}
+      <div className="relative overflow-hidden bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50">
+        <div className="absolute inset-0">
+          <div className="absolute top-20 left-20 w-72 h-72 bg-purple-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob"></div>
+          <div className="absolute top-40 right-20 w-72 h-72 bg-yellow-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-2000"></div>
+          <div className="absolute bottom-20 left-40 w-72 h-72 bg-pink-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-4000"></div>
+        </div>
+
+        <div className="relative max-w-7xl mx-auto px-8 py-20">
+          <div className="text-center mb-12">
+            <div className="inline-block mb-6">
+              <div className="w-32 h-32 bg-gradient-to-br from-indigo-600 to-purple-600 rounded-3xl flex items-center justify-center text-white text-5xl font-bold shadow-2xl transform rotate-3 hover:rotate-6 transition-transform">
+                SV
+              </div>
+            </div>
+            <h1 className="text-6xl font-extrabold mb-4">
+              <span className="bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+                S Varshitha
+              </span>
+            </h1>
+            <p className="text-2xl text-gray-600 mb-6">Software Engineer • Problem Solver • Tech Enthusiast</p>
+            <div className="flex gap-4 justify-center flex-wrap">
+              <span className="px-6 py-2 bg-white rounded-full shadow-md text-sm font-semibold text-gray-700 border-2 border-indigo-100">
+                🎓 B.E. CSE @ KIT Coimbatore
+              </span>
+              <span className="px-6 py-2 bg-white rounded-full shadow-md text-sm font-semibold text-gray-700 border-2 border-purple-100">
+                📍 Coimbatore, India
+              </span>
+              <span className="px-6 py-2 bg-white rounded-full shadow-md text-sm font-semibold text-gray-700 border-2 border-pink-100">
+                ⭐ CGPA 7.9
+              </span>
+            </div>
+          </div>
+
+          {/* Quick Stats Cards */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+            {[
+              { icon: '🏆', value: '2055', label: 'LeetCode Max', color: 'bg-orange-100 border-orange-300' },
+              { icon: '🎯', value: '460+', label: 'Problems', color: 'bg-blue-100 border-blue-300' },
+              { icon: '📝', value: '1', label: 'Research', color: 'bg-purple-100 border-purple-300' },
+              { icon: '🚀', value: '10+', label: 'Projects', color: 'bg-green-100 border-green-300' }
+            ].map((stat, idx) => (
+              <div key={idx} className={`${stat.color} border-2 rounded-2xl p-6 text-center transform hover:scale-105 transition-all shadow-md`}>
+                <div className="text-4xl mb-2">{stat.icon}</div>
+                <div className="text-3xl font-bold text-gray-800 mb-1">{stat.value}</div>
+                <div className="text-sm text-gray-600">{stat.label}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <div className="max-w-7xl mx-auto px-8 py-16">
+        {/* About Section with Timeline */}
+        <section className="mb-20">
+          <h2 className="text-4xl font-bold mb-8 text-center bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
+            My Journey
+          </h2>
+          <div className="relative">
+            <div className="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gradient-to-b from-indigo-200 via-purple-200 to-pink-200"></div>
+            <div className="space-y-8">
+              {timeline.map((item, idx) => (
+                <div key={idx} className={`flex items-center ${idx % 2 === 0 ? 'flex-row' : 'flex-row-reverse'} gap-8`}>
+                  <div className={`flex-1 ${idx % 2 === 0 ? 'text-right' : 'text-left'}`}>
+                    <div className="bg-white rounded-xl p-6 shadow-lg border-2 border-gray-100 inline-block">
+                      <div className="text-sm text-gray-500 mb-2">{item.year}</div>
+                      <div className="font-semibold text-gray-800">{item.event}</div>
+                    </div>
+                  </div>
+                  <div className={`${item.color} w-6 h-6 rounded-full border-4 border-white shadow-lg z-10`}></div>
+                  <div className="flex-1"></div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Expertise Cards */}
+        <section className="mb-20">
+          <h2 className="text-4xl font-bold mb-12 text-center bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
+            Areas of Expertise
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {expertise.map((area, idx) => (
+              <div key={idx} className={`bg-white rounded-2xl p-8 shadow-lg border-l-4 ${area.color} hover:shadow-2xl transition-all`}>
+                <div className="flex items-center gap-4 mb-6">
+                  <div className="text-5xl">{area.icon}</div>
+                  <h3 className="text-2xl font-bold text-gray-800">{area.domain}</h3>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {area.skills.map((skill, i) => (
+                    <span key={i} className="px-4 py-2 bg-gray-50 rounded-lg text-sm font-medium text-gray-700 border border-gray-200">
+                      {skill}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Achievement Badges */}
+        <section className="mb-20">
+          <h2 className="text-4xl font-bold mb-12 text-center bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
+            Achievements Unlocked
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+            {achievements.map((achievement, idx) => (
+              <div key={idx} className="bg-gradient-to-br from-white to-gray-50 rounded-2xl p-6 shadow-lg border-2 border-gray-100 text-center hover:scale-105 transition-transform">
+                <div className="text-6xl mb-4">{achievement.icon}</div>
+                <h3 className="font-bold text-lg text-gray-800 mb-2">{achievement.title}</h3>
+                <p className="text-sm text-gray-600 mb-2">{achievement.desc}</p>
+                <span className="inline-block px-4 py-1 bg-indigo-100 text-indigo-700 rounded-full text-xs font-semibold">
+                  {achievement.stat}
+                </span>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Project Showcase */}
+        <section className="mb-20">
+          <h2 className="text-4xl font-bold mb-12 text-center bg-gradient-to-r from-green-600 to-teal-600 bg-clip-text text-transparent">
+            Featured Work
+          </h2>
+          <div className="space-y-8">
+            {showcase.map((project, idx) => (
+              <div key={idx} className="bg-white rounded-3xl shadow-xl overflow-hidden border-2 border-gray-100 hover:shadow-2xl transition-all">
+                <div className={`h-3 bg-gradient-to-r ${project.color}`}></div>
+                <div className="p-8">
+                  <div className="flex items-start gap-6">
+                    <div className="text-7xl">{project.icon}</div>
+                    <div className="flex-1">
+                      <h3 className="text-3xl font-bold text-gray-800 mb-2">{project.name}</h3>
+                      <p className={`text-lg font-semibold bg-gradient-to-r ${project.color} bg-clip-text text-transparent mb-4`}>
+                        {project.tagline}
+                      </p>
+                      <p className="text-gray-600 mb-4">{project.description}</p>
+                      <div className="flex items-center gap-3 mb-4">
+                        <Award className="w-5 h-5 text-amber-500" />
+                        <span className="font-semibold text-gray-700">{project.impact}</span>
+                      </div>
+                      <div className="flex flex-wrap gap-2">
+                        {project.tech.map((tech, i) => (
+                          <span key={i} className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">
+                            {tech}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Competitive Programming */}
+        <section className="mb-20">
+          <h2 className="text-4xl font-bold mb-12 text-center bg-gradient-to-r from-yellow-600 to-orange-600 bg-clip-text text-transparent">
+            Competitive Coding
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {[
+              { platform: 'LeetCode', rating: '2055', badge: 'Top 14.5%', solved: '80+', color: 'from-orange-400 to-red-500', icon: '🟠' },
+              { platform: 'CodeChef', rating: '1314', badge: '1 Star', solved: '380', color: 'from-amber-400 to-yellow-500', icon: '⭐' },
+              { platform: 'Codeforces', rating: '965', badge: 'Pupil', solved: 'Active', color: 'from-blue-400 to-cyan-500', icon: '🔵' }
+            ].map((cp, idx) => (
+              <div key={idx} className="bg-white rounded-2xl p-8 shadow-lg border-2 border-gray-100">
+                <div className="text-center">
+                  <div className="text-5xl mb-4">{cp.icon}</div>
+                  <h3 className="text-2xl font-bold text-gray-800 mb-4">{cp.platform}</h3>
+                  <div className={`text-5xl font-extrabold bg-gradient-to-r ${cp.color} bg-clip-text text-transparent mb-2`}>
+                    {cp.rating}
+                  </div>
+                  <div className="space-y-2">
+                    <div className="px-4 py-2 bg-gray-50 rounded-lg">
+                      <span className="font-semibold text-gray-700">{cp.badge}</span>
+                    </div>
+                    <div className="text-sm text-gray-600">{cp.solved} Problems</div>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Contact CTA */}
+        <section>
+          <div className="bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 rounded-3xl p-12 text-white text-center shadow-2xl">
+            <h2 className="text-4xl font-bold mb-4">Let's Build Something Amazing!</h2>
+            <p className="text-xl mb-8 text-indigo-100">
+              Open to collaborations, opportunities, and innovative projects
+            </p>
+            <div className="flex gap-4 justify-center flex-wrap">
+              <a href="mailto:varshithasomashekar22@gmail.com" className="px-8 py-4 bg-white text-purple-600 rounded-xl font-bold shadow-lg hover:scale-105 transition-transform">
+                📧 Email Me
+              </a>
+              <a href="https://linkedin.com/in/S-Varshitha" className="px-8 py-4 bg-white/10 backdrop-blur-sm rounded-xl font-bold border-2 border-white hover:scale-105 transition-transform">
+                💼 LinkedIn
+              </a>
+              <a href="https://github.com/Varshitha61" className="px-8 py-4 bg-white/10 backdrop-blur-sm rounded-xl font-bold border-2 border-white hover:scale-105 transition-transform">
+                🐙 GitHub
+              </a>
+            </div>
+            <div className="mt-8 text-indigo-100">
+              📱 +91 7892598335
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  );
+}
