@@ -71,23 +71,60 @@
 
 ![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🚀 Featured Projects Portfolio
 
-### 💊 Pill Sense | IoT-Based Medication Adherence System
+## 📂 Featured Projects
 
-<div align="center">
+### 💊 Pill Sense | IoT Healthcare Innovation
 
-![IoT](https://img.shields.io/badge/IoT-Healthcare-9C27B0?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research_Published-ICEE_2025-FF6F00?style=for-the-badge)
-![Impact](https://img.shields.io/badge/Impact-Healthcare_Innovation-4CAF50?style=for-the-badge)
+> 🏆 **Research Paper Published at ICEE 2025**
 
-</div>
+Smart medication tracking system using capacitive sensors and microcontrollers with real-time caregiver monitoring capabilities.
+```
+Tech Stack: Embedded C • Microcontrollers • IoT Communication • Web Integration
+```
 
-#### 📋 Project Overview
-Engineered a revolutionary smart pill strip using advanced **capacitive sensing technology** and **microcontrollers** to automatically detect and log pill removal events with precise timestamps. Implemented real-time data synchronization to web applications enabling caregivers to monitor medication adherence remotely.
+**Impact:** Automated medication adherence monitoring with timestamp synchronization
 
-#### 🏆 Achievement
-**Research paper accepted** at 5th International Conference on Emerging Electronics (ICEE 2025)
+---
+
+### 💰 SpendWiser | AI-Powered Finance Tracker
+
+> 🧠 **Gemini AI Integration**
+
+Intelligent finance management platform featuring AI-driven receipt processing and spending analytics.
+```
+Tech Stack: React • TypeScript • Gemini API • REST APIs
+```
+
+**Impact:** Real-time financial insights with automated data extraction
+
+---
+
+### ☕ Cafe Aroma | Full-Stack Web Application
+
+> 🤖 **AI Virtual Barista**
+
+Complete café management system with AI-powered assistant using serverless architecture.
+```
+Tech Stack: React • Vite • Vercel AI • Context API • Serverless Functions
+```
+
+**Impact:** Enhanced user experience with intelligent recommendations
+
+---
+
+### 📊 Machine Learning Models | Predictive Analytics
+
+> 📈 **High Accuracy Models**
+
+Car price prediction and wine quality classification with comprehensive EDA and feature engineering.
+```
+Tech Stack: Python • Scikit-learn • Pandas • NumPy • Matplotlib
+```
+
+**Impact:** Systematic model optimization achieving high accuracy
+
+---
 
 
 
