@@ -121,18 +121,6 @@ I'm a **Software Engineer** based in Coimbatore, India, passionate about craftin
 
 ---
 
-
-
-## 🤝 Let's Connect!
-
-- 💼 **LinkedIn**: [S Varshitha](https://www.linkedin.com/in/s-varshitha/)
-- 💻 **LeetCode**: [varshithasomashekar22](https://leetcode.com/varshithassomashekar22)
-- 📧 **Email**: [varshithasomashekar22@gmail.com](mailto:varshithasomashekar22@gmail.com)
-- 📱 **Phone**: +91 7892598335
-- 📍 **Location**: Coimbatore, India
-
----
-
 ## 🎯 Current Focus
 
 - 🚀 Building scalable full-stack applications with React and Node.js
