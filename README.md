@@ -1,154 +1,198 @@
-# ⚡ S Varshitha | Full-Stack Engineer • AI Explorer • IoT Innovator
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;IoT+%2B+AI+%2B+Full-Stack;Research+Paper+Published;LeetCode+Max+2055+%F0%9F%8F%86)
+
+# S Varshitha
+### Software Engineer | Full-Stack Developer | AI/ML Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/S-Varshitha)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasomashekar22@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2055-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Varshitha61)
 
 </div>
 
 ---
 
-## 🚀 About Me
-```javascript
-const varshitha = {
-    location: "Coimbatore, India",
-    education: "B.E. CSE @ KIT Coimbatore",
-    role: "Full-Stack Developer + AI Enthusiast",
-    specialties: ["IoT Systems", "AI/ML", "Competitive Programming"],
-    achievement: "Research Paper Accepted - ICEE 2025 🎓"
-};
+## 👨‍💼 Professional Summary
+
+Results-driven Software Engineer with proven expertise in **full-stack development**, **artificial intelligence**, and **IoT systems**. Demonstrated success in architecting scalable applications and delivering innovative technical solutions. Published researcher with strong competitive programming credentials (LeetCode Max Rating: 2055, Top 14.5%).
+
+**Current Status:** B.E. Computer Science Engineering @ KIT Coimbatore | CGPA: 7.9
+
+---
+
+## 🎯 Key Achievements
+```
+📊 LeetCode Max Rating: 2055 (Top 14.5% Globally, Rank 1468)
+🏆 Total Problems Solved: 460+ across competitive platforms
+📝 Published Research: ICEE 2025 Conference (IoT Systems)
+💼 Professional Experience: Full-Stack Development Intern
 ```
 
-- 🔭 Currently exploring **AI-powered applications** and **IoT innovations**
-- 🌱 Learning advanced **System Design** and **Cloud Architecture**
-- 💡 Published research on **IoT-Based Medication Adherence Systems**
-- ⚡ Fun fact: **Top 14.5% on LeetCode** with max rating 2055
+---
+
+## 💼 Professional Experience
+
+### **Full-Stack Development Intern** | Learnlogicify Technologies
+*Duration: 1 Month*
+
+- Engineered responsive full-stack web components utilizing React, Node.js, and MySQL, resulting in enhanced UI consistency and measurable performance improvements
+- Optimized deployment workflows and executed comprehensive testing protocols, achieving more stable and reliable application releases
+- Collaborated with development team on debugging initiatives and feature enhancement projects
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Technical Proficiency
+
+### **Languages**
+```
+C • C++ • Java • Python • JavaScript • TypeScript
+```
+
+### **Frontend Development**
+```
+React.js • HTML5 • CSS3 • Tailwind CSS • Vite • Responsive Web Design
+```
+
+### **Backend Development**
+```
+Node.js • Express.js • REST APIs • Serverless Functions (Vercel)
+```
+
+### **Database Management**
+```
+MySQL • SQL • Data Modeling • Query Optimization
+```
+
+### **AI/ML & Data Science**
+```
+Scikit-learn • Regression/Classification • EDA • Feature Engineering • Gemini API
+```
+
+### **IoT & Embedded Systems**
+```
+Microcontrollers • Capacitive Sensors • Embedded Programming • IoT Communication
+```
+
+### **Tools & Platforms**
+```
+Git • GitHub • AWS (Basic) • Power BI • Tableau • MS Excel • Figma
+```
+
+---
+
+## 📂 Professional Projects
+
+### **🏥 Pill Sense – IoT-Based Medication Adherence System**
+**Role:** IoT Engineer & Research Developer
+
+- Architected smart pill monitoring system utilizing capacitive sensing and microcontroller technology
+- Engineered automated dosage logging with timestamp synchronization to web applications
+- Developed real-time caregiver monitoring dashboard with data analytics capabilities
+- **Achievement:** Research paper accepted at 5th International Conference on Emerging Electronics (ICEE 2025)
+
+**Technologies:** Embedded C, Microcontrollers, IoT Communication, Web Integration
+
+---
+
+### **💰 SpendWiser – AI-Powered Personal Finance Platform**
+**Role:** Full-Stack AI Developer
+
+- Developed intelligent finance management application with AI-driven receipt processing
+- Integrated Gemini API for automated data extraction and spending pattern analysis
+- Implemented comprehensive wallet management and transaction tracking systems
+- Designed real-time analytics dashboard with actionable financial insights
+
+**Technologies:** React, TypeScript, Gemini API, REST APIs
+
+---
+
+### **☕ Cafe Aroma – Full-Stack Web Application**
+**Role:** Full-Stack Developer
+
+- Engineered complete café management system with interactive menu browsing and cart functionality
+- Integrated AI-powered Virtual Barista using serverless architecture (Vercel AI)
+- Implemented secure user authentication and persistent state management with React Context API
+- Optimized user experience with responsive design and performance enhancements
+
+**Technologies:** React, Vite, Vercel AI, Context API, Serverless Functions
+
+---
+
+### **🤖 Machine Learning Portfolio**
+**Role:** ML Engineer
+
+**Car Price Prediction System**
+- Developed regression models for automotive price estimation
+- Conducted comprehensive EDA and implemented advanced feature engineering techniques
+- Achieved high accuracy through systematic model optimization
+
+**Wine Quality Classification**
+- Built multi-algorithm classification system (Logistic Regression, Random Forest, SVM)
+- Performed comparative analysis to optimize prediction accuracy
+- Implemented cross-validation and hyperparameter tuning
+
+**Technologies:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
+
+---
+
+## 🏆 Competitive Programming Excellence
 
 <div align="center">
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI/ML & Tools
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Platform | Max Rating | Global Rank | Problems Solved |
+|:--------:|:----------:|:-----------:|:---------------:|
+| **LeetCode** | 2055 | Top 14.5% (Rank 1468) | 80+ |
+| **CodeChef** | 1314 (1⭐) | Best Rank 1358 | 380+ |
+| **Codeforces** | 965 | Pupil | Active |
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 📜 Professional Certifications
 
-### 🏥 Pill Sense - IoT Medication Adherence System
-**🔬 Research Paper Accepted at ICEE 2025**
-- Smart pill strip using **capacitive sensing** & **microcontrollers**
-- Automatic dosage logging with timestamps
-- Real-time caregiver monitoring dashboard
-- **Tech:** Embedded C, IoT Communication, Web Integration
-
-### 💰 SpendWiser - AI-Powered Finance App
-- Receipt data extraction using **Gemini API**
-- AI-generated spending insights & analytics
-- Wallet management with real-time tracking
-- **Tech:** React, TypeScript, Gemini API
-
-### ☕ Cafe Aroma - Full-Stack Web App
-- Interactive menu with cart system
-- **AI-Powered Virtual Barista** using serverless functions
-- User authentication & persistent state management
-- **Tech:** React, Vite, Vercel AI, Context API
-
-### 🤖 Machine Learning Projects
-- **Car Price Prediction**: Regression models with EDA & feature engineering
-- **Wine Quality Classification**: Logistic Regression, Random Forest, SVM
-- **Tech:** Python, Scikit-learn, Pandas, NumPy
+- **GenAI Powered Data Analytics** – Tata Consultancy Services
+- **AWS Solutions Architecture** – Amazon Web Services
+- **Introduction to C Programming** – NPTEL
 
 ---
 
-## 🏆 Competitive Programming
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Platform | Max Rating | Rank | Problems Solved |
-|----------|-----------|------|-----------------|
-| 🟠 **LeetCode** | **2055** | Top 14.5% (Rank 1468) | 80+ |
-| 🟡 **CodeChef** | **1314** (1⭐) | Best Rank 1358 | 380+ |
-| 🔵 **Codeforces** | **965** | Pupil | Active |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varshitha61&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha61&layout=compact&theme=default&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varshitha61&theme=default&hide_border=false)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Professional Contact
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varshitha61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=E879F9&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varshitha61&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=E879F9&currStreakLabel=C9D1D9)
-
-</div>
-
----
-
-## 💼 Experience
-
-**Full-Stack Development Intern** @ Learnlogicify Technologies *(1 Month)*
-- Developed responsive web components with **React**, **Node.js**, and **MySQL**
-- Optimized deployment workflows and conducted comprehensive testing
-- Improved UI consistency and application stability
-
----
-
-## 📜 Certifications
-
-- 🤖 **GenAI Powered Data Analytics** - Tata
-- ☁️ **AWS Solutions Architecture** - AWS
-- 📚 **Introduction to C Programming** - NPTEL
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
+**Email:** varshithasomashekar22@gmail.com  
+**Phone:** +91 7892598335  
+**Location:** Coimbatore, Tamil Nadu, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/S-Varshitha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasomashekar22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varshitha61)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Varshitha61)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varshitha61)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Varshitha61)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasomashekar22@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 *"Building scalable solutions, one commit at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Varshitha61&color=blueviolet&style=for-the-badge)
+### Open to Full-Time Opportunities | Available for Collaboration
+
+*Building scalable solutions with precision and innovation*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Varshitha61&color=blue&style=flat-square)
 
 </div>
