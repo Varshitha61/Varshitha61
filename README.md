@@ -45,18 +45,7 @@
 
 ---
 
-## 🚀 My Journey
-```mermaid
-timeline
-    title Career Timeline
-    2023 : Started B.E. CSE Journey
-    2024 : Full-Stack Intern @ Learnlogicify
-         : LeetCode Rating 2055 (Top 14.5%)
-    2025 : Research Paper @ ICEE 2025
-         : Building the Future...
-```
 
----
 
 ## 💡 Areas of Expertise
 
