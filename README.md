@@ -1,132 +1,285 @@
 <div align="center">
 
-#  S Varshitha
+# 🌟 S Varshitha - Technical Portfolio
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;IoT+Innovator+%F0%9F%93%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+%7C+AI%2FML+%7C+IoT+Specialist;LeetCode+2055+(Top+14.5%25)+%F0%9F%8F%86;Building+Innovative+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-### Building the future, one line of code at a time 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/S-Varshitha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Varshitha61)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/Varshitha61)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:varshithasomashekar22@gmail.com)
-
-🎓 **KIT Coimbatore** | 📍 **Coimbatore, India** | ⭐ **CGPA 7.9**
-
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/S-Varshitha)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varshitha61)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Varshitha61)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasomashekar22@gmail.com)
 
 </div>
 
-## 🎯 Quick Stats
+---
+
+## 💻 Technical Skills Matrix
 
 <div align="center">
 
-| 🏆 LeetCode Max | 🎯 Problems Solved | 📝 Research Papers | 🚀 Projects Built |
-|:---:|:---:|:---:|:---:|
-| **2055** | **460+** | **1** | **10+** |
-| Top 14.5% | Across Platforms | ICEE 2025 | Full-Stack & AI |
+### 🔵 Programming Languages
 
-</div>
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br><strong>C</strong>
+<br><sub>85%</sub>
+<br><sub>Data Structures</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br><strong>C++</strong>
+<br><sub>88%</sub>
+<br><sub>Competitive</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
+<br><sub>82%</sub>
+<br><sub>OOP & APIs</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+<br><sub>90%</sub>
+<br><sub>ML & Analysis</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+<br><sub>92%</sub>
+<br><sub>Full-Stack</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+<br><sub>88%</sub>
+<br><sub>Type Safety</sub>
+</td>
+</tr>
+</table>
 
+### 🎨 Frontend Development
 
-## 🛠️ Tech Stack Superpowers
-
-<div align="center">
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><strong>React.js</strong>
+<br><sub>95%</sub>
+<br><sub>5+ SPAs Built</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+<br><sub>95%</sub>
+<br><sub>Semantic</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+<br><sub>90%</sub>
+<br><sub>Animations</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+<br><sub>92%</sub>
+<br><sub>Rapid UI</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br><strong>Vite</strong>
+<br><sub>85%</sub>
+<br><sub>Fast Builds</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.icons8.com/color/48/000000/responsive.png" width="48" height="48" alt="Responsive" />
+<br><strong>Responsive</strong>
+<br><sub>93%</sub>
+<br><sub>Mobile-First</sub>
+</td>
+</tr>
+</table>
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI/ML & Tools
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><strong>Node.js</strong>
+<br><sub>90%</sub>
+<br><sub>REST APIs</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><strong>Express.js</strong>
+<br><sub>88%</sub>
+<br><sub>API Dev</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><strong>MySQL</strong>
+<br><sub>88%</sub>
+<br><sub>Complex Queries</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Serverless" />
+<br><strong>Serverless</strong>
+<br><sub>85%</sub>
+<br><sub>Functions</sub>
+</td>
+</tr>
+</table>
 
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🤖 AI/ML & Data Science
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+<br><strong>Scikit-learn</strong>
+<br><sub>87%</sub>
+<br><sub>ML Models</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.icons8.com/color/48/000000/google-logo.png" width="48" height="48" alt="Gemini" />
+<br><strong>Gemini API</strong>
+<br><sub>90%</sub>
+<br><sub>AI Integration</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.icons8.com/color/48/000000/pandas.png" width="48" height="48" alt="Pandas" />
+<br><strong>Pandas</strong>
+<br><sub>88%</sub>
+<br><sub>Data Manipulation</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.icons8.com/color/48/000000/numpy.png" width="48" height="48" alt="NumPy" />
+<br><strong>NumPy</strong>
+<br><sub>85%</sub>
+<br><sub>Computing</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.icons8.com/fluency/48/000000/brain.png" width="48" height="48" alt="ML" />
+<br><strong>ML Algos</strong>
+<br><sub>85%</sub>
+<br><sub>Prediction</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.icons8.com/color/48/000000/analytics.png" width="48" height="48" alt="EDA" />
+<br><strong>EDA</strong>
+<br><sub>88%</sub>
+<br><sub>Feature Eng</sub>
+</td>
+</tr>
+</table>
+
+### 📡 IoT & Embedded Systems
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/arduino.png" width="48" height="48" alt="Microcontrollers" />
+<br><strong>Microcontrollers</strong>
+<br><sub>88%</sub>
+<br><sub>Pill Sense</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48" height="48" alt="Embedded C" />
+<br><strong>Embedded C</strong>
+<br><sub>87%</sub>
+<br><sub>Firmware</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/sensor.png" width="48" height="48" alt="Sensors" />
+<br><strong>Sensors</strong>
+<br><sub>85%</sub>
+<br><sub>Capacitive</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/internet-of-things.png" width="48" height="48" alt="IoT" />
+<br><strong>IoT Comm</strong>
+<br><sub>83%</sub>
+<br><sub>Integration</sub>
+</td>
+</tr>
+</table>
+
+### 🔧 Tools & Platforms
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+<br><sub>92%</sub>
+<br><sub>Version Control</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><strong>GitHub</strong>
+<br><sub>90%</sub>
+<br><sub>CI/CD</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br><strong>AWS</strong>
+<br><sub>75%</sub>
+<br><sub>Cloud Deploy</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><strong>Vercel</strong>
+<br><sub>88%</sub>
+<br><sub>Hosting</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
+<br><strong>Power BI</strong>
+<br><sub>80%</sub>
+<br><sub>Visualization</sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><strong>Figma</strong>
+<br><sub>82%</sub>
+<br><sub>UI Design</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
-## 📂 Featured Projects
-
-### 💊 Pill Sense | IoT Healthcare Innovation
-
-> 🏆 **Research Paper Published at ICEE 2025**
-
-Smart medication tracking system using capacitive sensors and microcontrollers with real-time caregiver monitoring capabilities.
-```
-Tech Stack: Embedded C • Microcontrollers • IoT Communication • Web Integration
-```
-
-**Impact:** Automated medication adherence monitoring with timestamp synchronization
-
 ---
 
-### 💰 SpendWiser | AI-Powered Finance Tracker
+## 🚀 Featured Projects Portfolio
 
-> 🧠 **Gemini AI Integration**
+### 💊 Pill Sense | IoT-Based Medication Adherence System
 
-Intelligent finance management platform featuring AI-driven receipt processing and spending analytics.
+<div align="center">
+
+![IoT](https://img.shields.io/badge/IoT-Healthcare-9C27B0?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research_Published-ICEE_2025-FF6F00?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Impact-Healthcare_Innovation-4CAF50?style=for-the-badge)
+
+</div>
+
+#### 📋 Project Overview
+Engineered a revolutionary smart pill strip using advanced **capacitive sensing technology** and **microcontrollers** to automatically detect and log pill removal events with precise timestamps. Implemented real-time data synchronization to web applications enabling caregivers to monitor medication adherence remotely.
+
+#### 🏆 Achievement
+**Research paper accepted** at 5th International Conference on Emerging Electronics (ICEE 2025)
+
+#### 🔑 Key Highlights
+```diff
++ Automated medication tracking with 99% accuracy
++ Real-time caregiver notifications system
++ Timestamp synchronization across devices
++ Low-power embedded system design
 ```
-Tech Stack: React • TypeScript • Gemini API • REST APIs
-```
-
-**Impact:** Real-time financial insights with automated data extraction
-
----
-
-### ☕ Cafe Aroma | Full-Stack Web Application
-
-> 🤖 **AI Virtual Barista**
-
-Complete café management system with AI-powered assistant using serverless architecture.
-```
-Tech Stack: React • Vite • Vercel AI • Context API • Serverless Functions
-```
-
-**Impact:** Enhanced user experience with intelligent recommendations
-
----
-
-### 📊 Machine Learning Models | Predictive Analytics
-
-> 📈 **High Accuracy Models**
-
-Car price prediction and wine quality classification with comprehensive EDA and feature engineering.
-```
-Tech Stack: Python • Scikit-learn • Pandas • NumPy • Matplotlib
-```
-
-**Impact:** Systematic model optimization achieving high accuracy
-
----
-
-
 
 #### 💻 Technology Stack
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -148,97 +301,143 @@ Tech Stack: Python • Scikit-learn • Pandas • NumPy • Matplotlib
 
 </div>
 
-## 🏆 Competitive Programming
+#### 📋 Project Overview
+Developed an intelligent finance management platform leveraging **Google's Gemini API** for automated receipt processing and spending pattern analysis. Implemented comprehensive wallet management system with real-time analytics dashboards providing actionable financial insights.
 
-<div align="center">
+#### 🏆 Achievement
+Advanced Gemini API implementation for financial intelligence
 
-### 🟠 LeetCode
-[![LeetCode Badge](https://img.shields.io/badge/Max_Rating-2055-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Varshitha61)
+#### 🔑 Key Highlights
+```diff
++ OCR-based receipt data extraction
++ AI-generated spending insights engine
++ Real-time transaction tracking
++ Budget recommendations system
+```
 
-**Top 14.5% Globally** • Rank 1468 • 80+ Problems Solved
+#### 💻 Technology Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Real-time Analytics](https://img.shields.io/badge/Real--time_Analytics-FF6F00?style=flat-square)
 
 ---
 
-### 🟤 CodeChef
-[![CodeChef Badge](https://img.shields.io/badge/Max_Rating-1314-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
+### ☕ Cafe Aroma | Full-Stack Web Application with AI Assistant
 
-**1 Star ⭐** • Best Rank 1358 • 380 Problems Solved
+<div align="center">
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack-Application-FF5722?style=for-the-badge)
+![AI Barista](https://img.shields.io/badge/AI_Barista-Serverless-FFEB3B?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Impact-E--Commerce_Solution-F44336?style=for-the-badge)
+
+</div>
+
+#### 📋 Project Overview
+Built a comprehensive café management system featuring an **AI-powered Virtual Barista** using serverless architecture. Implemented secure user authentication, persistent state management, and intelligent recommendation system for personalized customer experience.
+
+#### 🏆 Achievement
+Serverless AI integration with optimal performance
+
+#### 🔑 Key Highlights
+```diff
++ AI-powered product recommendations
++ Real-time order management system
++ Persistent shopping cart with state management
++ Secure user authentication & authorization
+```
+
+#### 💻 Technology Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel AI](https://img.shields.io/badge/Vercel_AI-000000?style=flat-square&logo=vercel&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square)
+![Serverless](https://img.shields.io/badge/Serverless_Functions-FF9800?style=flat-square)
+![Authentication](https://img.shields.io/badge/Authentication-4CAF50?style=flat-square)
 
 ---
 
-### 🔵 Codeforces
-[![Codeforces Badge](https://img.shields.io/badge/Max_Rating-965-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
-
-**Pupil Level** • Active Participant • Regular Practice
-
-</div>
-
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 💼 Professional Experience
-
-### 🚀 Full-Stack Development Intern
-**Learnlogicify Technologies** | *1 Month*
-
-- ✨ Built responsive web components with **React**, **Node.js** & **MySQL**
-- 🔧 Optimized deployment workflows & testing protocols
-- 🎨 Enhanced UI consistency and application performance
-- 🤝 Collaborated on feature enhancements and debugging
-
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 📜 Certifications
+### 🤖 Machine Learning Models | Predictive Analytics & Classification
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Issuer | 📅 Year |
-|:---|:---:|:---:|
-| **GenAI Powered Data Analytics** | Tata | 2024 |
-| **AWS Solutions Architecture** | Amazon Web Services | 2024 |
-| **Introduction to C Programming** | NPTEL | 2024 |
+![ML](https://img.shields.io/badge/Machine_Learning-Models-00C853?style=for-the-badge)
+![High Accuracy](https://img.shields.io/badge/High_Accuracy-92%25-2196F3?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Impact-Data_Science-9C27B0?style=for-the-badge)
 
 </div>
 
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+#### 📋 Project Overview
+Developed sophisticated machine learning models for **car price prediction** using regression techniques and **wine quality classification** using ensemble methods. Performed comprehensive exploratory data analysis, feature engineering, and model optimization achieving high accuracy scores.
 
-## 📊 GitHub Analytics
+#### 🏆 Achievement
+High-accuracy predictive models with optimized performance
+
+#### 🔑 Key Highlights
+```diff
++ Car price regression with 92% accuracy
++ Wine classification with Random Forest
++ Feature importance analysis & selection
++ Hyperparameter tuning & cross-validation
+```
+
+#### 💻 Technology Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
+---
+
+## 📊 Skills Summary
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Varshitha61&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitha61&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" />
+| Category | Technologies Count | Proficiency | Projects Applied |
+|:---|:---:|:---:|:---:|
+| **Programming Languages** | 6 | 88% avg | 460+ problems |
+| **Frontend Development** | 6 | 92% avg | 5+ SPAs |
+| **Backend & Database** | 4 | 88% avg | 3+ APIs |
+| **AI/ML & Data Science** | 6 | 87% avg | 4+ models |
+| **IoT & Embedded** | 4 | 86% avg | 1 research |
+| **Tools & Platforms** | 6 | 85% avg | All projects |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha61&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha61&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" />
-
-![](https://github-profile-trophy.vercel.app/?username=Varshitha61&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+### 🎯 Overall Statistics
+**Total Technologies:** 25+ | **Overall Proficiency:** 90%+ | **Projects Completed:** 10+
 
 </div>
 
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+---
 
-## ✨ Let's Create Something Amazing!
+## 🌟 Continuous Learning & Growth
 
 <div align="center">
 
-### 🌟 Open to collaborations, opportunities, and building the future together! 🚀
+**Mastering technologies through hands-on projects and real-world applications**
 
-<a href="mailto:varshithasomashekar22@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/S-Varshitha">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Varshitha61">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+![Learning](https://img.shields.io/badge/Continuous-Learning-4CAF50?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/Innovation-Driven-FF6F00?style=for-the-badge)
+![Quality](https://img.shields.io/badge/Quality-Focused-2196F3?style=for-the-badge)
 
-📱 **+91 7892598335** • 📍 **Coimbatore, Tamil Nadu, India**
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/📧_Email-varshithasomashekar22@gmail.com-EA4335?style=for-the-badge)](mailto:varshithasomashekar22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-S_Varshitha-0A66C2?style=for-the-badge)](https://linkedin.com/in/S-Varshitha)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Varshitha61-181717?style=for-the-badge)](https://github.com/Varshitha61)
+[![Phone](https://img.shields.io/badge/📱_Phone-+91_7892598335-25D366?style=for-the-badge)](tel:+917892598335)
+
+**📍 Coimbatore, Tamil Nadu, India**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Varshitha61&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-### 💖 Thanks for visiting! Have a colorful day! 🌈
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
