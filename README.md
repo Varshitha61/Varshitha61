@@ -71,43 +71,45 @@
 
 ![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects Portfolio
 
-### 💊 Pill Sense | IoT Healthcare Innovation
-> 🏆 **Research Paper Accepted at ICEE 2025**
+### 💊 Pill Sense | IoT-Based Medication Adherence System
 
-Smart medication tracking system using capacitive sensors & microcontrollers with real-time caregiver monitoring.
+<div align="center">
 
-**Tech Stack:** `Embedded C` `Microcontrollers` `IoT Communication` `Web Integration`
+![IoT](https://img.shields.io/badge/IoT-Healthcare-9C27B0?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research_Published-ICEE_2025-FF6F00?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Impact-Healthcare_Innovation-4CAF50?style=for-the-badge)
+
+</div>
+
+#### 📋 Project Overview
+Engineered a revolutionary smart pill strip using advanced **capacitive sensing technology** and **microcontrollers** to automatically detect and log pill removal events with precise timestamps. Implemented real-time data synchronization to web applications enabling caregivers to monitor medication adherence remotely.
+
+#### 🏆 Achievement
+**Research paper accepted** at 5th International Conference on Emerging Electronics (ICEE 2025)
+
+
+
+#### 💻 Technology Stack
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-FF6F00?style=flat-square)
+![Capacitive Sensors](https://img.shields.io/badge/Capacitive_Sensors-4CAF50?style=flat-square)
+![IoT Communication](https://img.shields.io/badge/IoT_Communication-9C27B0?style=flat-square)
+![Web Integration](https://img.shields.io/badge/Web_Integration-2196F3?style=flat-square)
+![Real-time Systems](https://img.shields.io/badge/Real--time_Systems-F44336?style=flat-square)
 
 ---
 
-### 💸 SpendWiser | AI-Powered Finance Tracker
-> 🧠 **Gemini AI Integration**
+### 💸 SpendWiser | AI-Powered Personal Finance Management
 
-Intelligent finance management platform with AI-driven receipt processing and spending analytics.
+<div align="center">
 
-**Tech Stack:** `React` `TypeScript` `Gemini API` `REST APIs`
+![AI](https://img.shields.io/badge/AI-Powered-00D9FF?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-Integration-4285F4?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Impact-Financial_Technology-00C853?style=for-the-badge)
 
----
-
-### ☕ Cafe Aroma | Full-Stack Web Application
-> 🤖 **AI Virtual Barista**
-
-Complete café management system with AI-powered assistant using serverless architecture.
-
-**Tech Stack:** `React` `Vite` `Vercel AI` `Context API` `Serverless Functions`
-
----
-
-### 📊 ML Models | Predictive Analytics
-> 📈 **High Accuracy Models**
-
-Car price prediction & wine quality classification with comprehensive EDA and feature engineering.
-
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
-
-![Purple Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+</div>
 
 ## 🏆 Competitive Programming
 
