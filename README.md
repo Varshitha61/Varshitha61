@@ -269,7 +269,7 @@ Tech Stack: Python • Scikit-learn • Pandas • NumPy • Matplotlib
 ### Open to collaborations, opportunities, and innovative projects!
 
 [![Email](https://img.shields.io/badge/Email-varshithasomashekar22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasomashekar22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-S_Varshitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/S-Varshitha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-S_Varshitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-varshitha-69a2692a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-Varshitha61-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varshitha61)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Varshitha61-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Varshitha61)
 
